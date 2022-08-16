@@ -92,3 +92,5 @@ iOSInjectionProject/
 .idea/
 
 Pods/
+
+Journaly/GoogleService-Info.plist
